@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Riftway Solutions</title>
-    <link>http://www.riftway-solutions.com/</link>
+    <link>https://www.riftway-solutions.com/</link>
     <description>Recent content on Riftway Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>riftway.solutions@gmail.com (riftway-solutions)</managingEditor>
     <webMaster>riftway.solutions@gmail.com (riftway-solutions)</webMaster>
-    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.riftway-solutions.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.riftway-solutions.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
